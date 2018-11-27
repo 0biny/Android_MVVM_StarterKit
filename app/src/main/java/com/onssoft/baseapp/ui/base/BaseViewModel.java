@@ -1,7 +1,7 @@
 package com.onssoft.baseapp.ui.base;
 
-import android.arch.lifecycle.ViewModel;
-import android.databinding.ObservableBoolean;
+import androidx.lifecycle.ViewModel;
+import androidx.databinding.ObservableBoolean;
 
 import com.onssoft.baseapp.data.DataManager;
 import com.onssoft.baseapp.utils.rx.SchedulerProvider;
